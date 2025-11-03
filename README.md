@@ -56,5 +56,5 @@ Improved understanding of data handling and mock API testing.
 Demonstrated ability to build real-world dashboards using React.
 
 ## 📸 Demo Preview
-![Product Dashboard Screenshot](./screenshot.png)
+![Product Dashboard Screenshot](public/screenshot.png)
 
